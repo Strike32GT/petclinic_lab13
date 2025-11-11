@@ -1,3 +1,4 @@
+//Fernando Mas
 package com.tecsup.petclinic.entities;
 
 import jakarta.persistence.*;
